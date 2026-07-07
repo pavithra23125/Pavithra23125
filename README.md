@@ -12,7 +12,7 @@
 
 # 🧠 About Me
 
-🎓 Third Year Computer Science Engineering Student
+🎓 Computer Science Engineering Student
 
 🤖 Passionate about Artificial Intelligence & Machine Learning
 
@@ -41,11 +41,11 @@
 
 ### 💻 Languages
 
-Python • Java • JavaScript • SQL
+Python • Java • C
 
 ### 🌐 Frontend
 
-HTML • CSS • React • Tailwind CSS
+HTML • CSS • React 
 
 ### ⚙ Backend
 
@@ -151,15 +151,14 @@ LLMs
 
 ---
 
-# 🤝 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
 
-📧 Email
-
-💼 LinkedIn
-
-💻 GitHub
-
-🌐 Portfolio (Coming Soon)
+<p align="center">
+<a href="mailto:pavi23125@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pavithra-balamurugan-78759325/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/pavithra23125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://amazing-vacherin-d9950f.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
 
 ---
 
