@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="images/banner.png" width="100%" alt="Banner"/>
+<img src="images/banner.png" width="100%" alt="Pavithra B Banner"/>
 
 # 👋 Hi, I'm Pavithra B
 
 ### 🚀 AI Engineer in Progress | Full Stack Developer | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=23&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Building+Intelligent+Solutions;Artificial+Intelligence+Enthusiast;Python+Developer;React+Developer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;B.E.+Computer+Science+%40+UCEK;CGPA+%3A+8.73;Building+AI+That+Solves+Real-World+Problems"/>
+
+<br>
+
+🎓 **University College of Engineering Kancheepuram (UCEK)** • **2023 – 2027**
+
+📊 **CGPA:** **8.73**
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=pavithra23125&style=for-the-badge&color=8A2BE2"/>
 
@@ -15,89 +23,220 @@
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="650"/>
+
 </div>
 
 ---
 
-# 🧠 About Me
+# 👨‍💻 Who Am I?
 
-🎓 Third Year Computer Science Engineering Student
+<table>
+<tr>
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+<td width="60%">
 
-💻 Building AI-powered Applications
+### 👋 Hello!
 
-🌐 Full Stack Developer
+I'm **Pavithra B**, a Computer Science Engineering student with a strong passion for **Artificial Intelligence, Machine Learning, and Full Stack Development**.
+
+I enjoy transforming ideas into intelligent applications that solve real-world problems.
 
 🏆 Hackathon Winner
 
-🌱 Currently Learning Deep Learning, LLMs & AI Agents
+🤖 AI Enthusiast
 
-🎯 Goal: Become an AI Engineer at a Top Product Company
+💻 Full Stack Developer
+
+🚀 Future AI Engineer
+
+I believe continuous learning and consistent building are the keys to becoming a great engineer.
+
+</td>
+
+<td align="center">
+
+<img width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# ⚡ Tech Universe
+# ⚡ Current Focus
 
-### 💻 Languages
+<div align="center">
+
+| 🤖 AI | 💻 Development | 📚 Learning |
+|:---:|:---:|:---:|
+| Machine Learning | React.js | Deep Learning |
+| Computer Vision | Node.js | AI Agents |
+| YOLO | Full Stack | LLMs |
+| Prompt Engineering | Supabase | System Design |
+
+</div>
+
+---
+
+# 🛠️ Tech Universe
+
+<div align="center">
+
+## 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c"/>
 
 **Python • Java • JavaScript • C**
 
-### 🌐 Frontend
+<br>
+
+## 🌐 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
 
 **HTML • CSS • React • Tailwind CSS**
 
-### ⚙ Backend
+<br>
+
+## ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 **Node.js • Express.js**
 
-### 🗄 Database
+<br>
+
+## 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase"/>
 
 **MySQL • MongoDB • Supabase**
 
-### 🎨 Tools
+<br>
+
+## 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+**Machine Learning • OpenCV • YOLO • Prompt Engineering**
+
+<br>
+
+## 🎨 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 
 **Git • GitHub • VS Code • Figma**
 
+</div>
+
 ---
 
 # 🚀 Featured Projects
 
-| 🚀 Project | Description |
-|------------|-------------|
-| 🦺 **Smart PPE Detection System** | AI-powered worker safety monitoring using YOLO & React |
-| 💳 **Financial Fraud Detection** | Machine Learning based fraud detection |
-| 🛡 **Cybersecurity Threat Detection** | Network threat monitoring system |
-| 🤖 **Personal AI Assistant** | AI Companion with Memory *(In Progress)* |
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🦺 Smart PPE Detection System
+
+AI-powered worker safety monitoring using Computer Vision.
+
+### ⚙️ Tech Stack
+
+Python • YOLO • React • Supabase
+
+</td>
+
+<td width="50%">
+
+## 💳 Financial Fraud Detection
+
+Machine Learning model to detect fraudulent transactions.
+
+### ⚙️ Tech Stack
+
+Python • Machine Learning • SQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🛡️ Cybersecurity Threat Detection
+
+Security monitoring and threat detection application.
+
+### ⚙️ Tech Stack
+
+Python • Networking • Cybersecurity
+
+</td>
+
+<td width="50%">
+
+## 🤖 Personal AI Assistant
+
+An AI companion with memory, voice interaction, and intelligent conversations.
+
+### 🚧 Status
+
+Currently Building
+
+</td>
+
+</tr>
+
+</table>
 
 ---
-
 # 🏆 Achievement Gallery
 
 <div align="center">
 
-| 🥇 Chakravyuha 1.0 | 🥈 IBM Hackathon |
-|:------------------:|:----------------:|
-| <img src="images/chakravyuha.png" width="300"/> | <img src="images/ibm-hackathon.jpg" width="300"/> |
-| **1st Prize Winner** | **Runner-up** |
+<table>
+
+<tr>
+
+<td align="center">
+
+<img src="images/chakravyuha.png" width="330"/>
+
+### 🥇 Chakravyuha 1.0
+
+**🏆 First Prize Winner**
+
+</td>
+
+<td align="center">
+
+<img src="images/ibm-hackathon.jpeg" width="330"/>
+
+### 🥈 IBM Naan Mudhalvan Hackathon
+
+**🏅 Runner-up**
+
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
 <img src="images/sih.png" width="500"/>
+
 ### 🚀 Smart India Hackathon
 
-**AI-based Smart PPE Compliance Monitoring System**
+**AI-Based Smart PPE Compliance Monitoring System**
 
 </div>
 
@@ -105,9 +244,15 @@
 
 # 📜 Certifications
 
-- 📘 IBM Python 101
-- 🔐 Cybersecurity Bootcamp
-- 🎓 RUSA Employability Skills
+<div align="center">
+
+| 🎓 Certification | Status |
+|:----------------:|:------:|
+| IBM Python 101 | ✅ Completed |
+| Cybersecurity Bootcamp | ✅ Completed |
+| RUSA Employability Skills | ✅ Completed |
+
+</div>
 
 ---
 
@@ -121,6 +266,14 @@
 
 <br><br>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra23125&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavithra23125&theme=tokyo-night&hide_border=true"/>
 
 </div>
@@ -129,9 +282,9 @@
 
 # 🌱 Currently Learning
 
-<p>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
 
@@ -139,29 +292,31 @@
 
 <img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/React-cyan?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/System%20Design-orange?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
-- 🚀 Build 30+ AI Projects
-- ⭐ Contribute to Open Source
-- 💼 Join Google / Microsoft
-- 🌍 Launch an AI Product
-- 🤖 Become an AI Engineer
+- 🚀 Build **30+ AI Projects**
+- 🤝 Become an **Open Source Contributor**
+- 💼 Secure a role at a **Top Product Company**
+- 🌍 Launch an **AI Product**
+- 🤖 Become a Professional **AI Engineer**
 
 ---
 
-# 💭 Quote
+# 💬 Inspiration
 
 <div align="center">
 
-### 💜 "Building Intelligent Solutions for Real-World Problems."
+> **"The best way to predict the future is to invent it."**
+
+### — Alan Kay
 
 </div>
 
@@ -193,10 +348,16 @@
 
 <div align="center">
 
-## ⭐ Thanks for Visiting My Profile
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=22&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Amazing+Things+Together!;Always+Learning.+Always+Building."/>
 
-### 🚀 Building AI • Learning Every Day • Creating Impact
+<br>
+
+### ⭐ Thanks for Visiting My Profile ⭐
+
+#### 💜 *Building AI • Solving Problems • Creating Impact*
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
+➡️ **End of Part 1**
