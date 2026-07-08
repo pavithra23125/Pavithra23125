@@ -89,13 +89,12 @@
 
 | 🥇 Chakravyuha 1.0 | 🥈 IBM Hackathon |
 |:------------------:|:----------------:|
-| <img src="images/chakravyuha.jpg" width="300"/> | <img src="images/ibm-hackathon.jpeg" width="300"/> |
+| <img src="images/chakravyuha.png" width="300"/> | <img src="images/ibm-hackathon.jpg" width="300"/> |
 | **1st Prize Winner** | **Runner-up** |
 
 <br>
 
-<img src="images/sih.jpg" width="500"/>
-
+<img src="images/sih.png" width="500"/>
 ### 🚀 Smart India Hackathon
 
 **AI-based Smart PPE Compliance Monitoring System**
