@@ -189,7 +189,7 @@ An AI companion with memory, voice interaction, and intelligent conversations.
 
 ### 🚧 Status
 
-Currently Building
+Coming soon
 
 </td>
 
@@ -218,7 +218,7 @@ Currently Building
 
 <td align="center">
 
-<img src="images/ibm-hackathon.jpeg" width="330"/>
+<img src="images/ibm-hackathon.jpg" width="330"/>
 
 ### 🥈 IBM Naan Mudhalvan Hackathon
 
